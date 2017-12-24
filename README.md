@@ -14,3 +14,6 @@ Have questions to ask me directly? Try out my AMA!
 - Bugs & feature requests should be opened on the relevant issue tracker.
 - Support questions are better asked on Stack Overflow.
 - Be civil and polite.
+
+### Links
+- [What's an AMA?](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA)
